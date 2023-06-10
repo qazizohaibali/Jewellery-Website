@@ -1,0 +1,14 @@
+.blogs_div{
+    height: 80px;
+    width: 300px;
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transform: translateY(-8rem);
+    backdrop-filter: blur(50px);
+    color: white;
+}
+.blogs_image{
+    border: 3px double rgb(199, 199, 199);
+}
